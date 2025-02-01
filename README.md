@@ -1,4 +1,4 @@
-# CFA Analytics Inductions 2025
+# Analytics Inductions 2025
 
 This repository contains the code and data used for the exploratory data analysis (EDA) on the IPL auction dataset as part of the CFA Club Data Science Analytics Division Induction Problem.
 
