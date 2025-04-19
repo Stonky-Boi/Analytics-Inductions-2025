@@ -11,7 +11,7 @@ The analysis was conducted using Python, with key libraries such as Pandas, NumP
 ## Project Structure
 
 - `final_dataset.csv`: The dataset containing player and auction details.
-- `CFA_Analytics_Induction_2025.ipynb`: The Jupyter notebook that performs the exploratory data analysis.
+- `Analytics_Induction_2025.ipynb`: The Jupyter notebook that performs the exploratory data analysis.
 - `README.md`: This file, which provides an overview of the project.
 
 ## Requirements
@@ -35,13 +35,13 @@ pip install pandas numpy matplotlib seaborn jupyter
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Stonky-Boi/CFA_Analytics_Inductions_2025.git
+git clone https://github.com/Stonky-Boi/Analytics_Inductions_2025.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd CFA_Analytics_Inductions_2025
+cd Analytics_Inductions_2025
 ```
 
 3. Start Jupyter Notebook:
@@ -50,7 +50,7 @@ cd CFA_Analytics_Inductions_2025
 jupyter notebook
 ```
 
-4. Open the `CFA_Analytics_Induction_2025.ipynb` notebook in the Jupyter interface.
+4. Open the `Analytics_Induction_2025.ipynb` notebook in the Jupyter interface.
 
 5. Run the notebook cells to perform the exploratory data analysis and generate visualizations and insights based on the IPL auction dataset.
 
