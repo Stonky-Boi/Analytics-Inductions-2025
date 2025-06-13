@@ -1,7 +1,7 @@
 # Analytics Inductions 2025
 ![GitHub Created At](https://img.shields.io/github/created-at/Stonky-Boi/Analytics_Inductions_2025)
 ![GitHub contributors](https://img.shields.io/github/contributors/Stonky-Boi/Analytics_Inductions_2025)
-![GitHub License](https://img.shields.io/github/license/Stonky-Boi/Analytics_Inductions_2025?cacheBust=1)
+![GitHub License](https://img.shields.io/github/license/Stonky-Boi/Analytics_Inductions_2025)
 
 This repository contains the code and data used for the exploratory data analysis (EDA) on the IPL auction dataset as part of the CFA Club Data Science Analytics Division Induction Problem.
 
